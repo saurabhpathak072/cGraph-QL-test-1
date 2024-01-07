@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.minHeight100vh{
+  min-height: 100vh;
+}
+
+.maxheight100vh{
+  max-height: 100vh;
+}
